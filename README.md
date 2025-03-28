@@ -81,7 +81,7 @@ streamlit run home.py
 
 ## 👤 Autor
 
-- [Tu nombre o usuario de GitHub](https://github.com/tu-usuario)
+- Pelayo Quiros Perez
 
 ---
 
