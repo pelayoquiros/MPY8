@@ -30,6 +30,7 @@ if not st.session_state.logueado:
 # 🔹 Simulación de credenciales (usuario: contraseña)
 USUARIOS_VALIDOS = {
     "admin": "1234",
+     "admin": "admin",
     "usuario": "password"
 }
 
